@@ -51,6 +51,10 @@ class Spider(object):
         for i in xrange(num):
             g = gevent.spawn(self._fetch)
         g.join()
+<<<<<<< HEAD
+=======
+        gevent.shutdown()
+>>>>>>> e5ccabefe5646147f21e0234af9ac3fae1c04910
 
     def put(self, url):
         self.queue.put(url)

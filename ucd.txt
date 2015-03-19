@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+What the heck is this?
+>>>>>>> e5ccabefe5646147f21e0234af9ac3fae1c04910
 1258 http://robertmao.com/2008/12/02/open-social-open-social/ Open Social 一年了，Open在哪里? Social在哪里?
 1253 http://blog.b3inside.com/essay/educate-people-to-search-goods/ 聊聊“要购物，先百度”如何养成
 1259 http://www.91ew.com/blog/?p=40 再谈“把用户当傻瓜”的设计思想
